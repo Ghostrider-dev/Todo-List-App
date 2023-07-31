@@ -3,10 +3,10 @@
   "short_name": "Todo List",
   "description": "Todo list for reminding your tasks",
   "start_url": ".",
-  "background_color": "#333333",
-  "theme_color": "#333333",
   "orientation": "portrait",
   "display": "standalone",
+  "background_color": "#333333",
+  "theme_color": "#333333",
   "icons": [
     {
       "src": "./assets/pwa/manifest-icon-192.maskable.png",
