@@ -3,7 +3,7 @@
   "short_name": "Todo List",
   "description": "Todo list for reminding your tasks",
   "start_url": ".",
-  "background_color": "#d24040",
+  "background_color": "#333333",
   "theme_color": "#333333",
   "orientation": "portrait",
   "display": "standalone",
@@ -31,12 +31,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
-    }
-  ],
-  "related_applications": [
-    {
-      "platform": "webapp",
-      "url": "https://ghostrider-dev.github.io/Todo-List-App/manifest.json"
     }
   ]
 }
