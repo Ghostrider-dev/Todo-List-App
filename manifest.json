@@ -1,7 +1,7 @@
 {
   "name": "Todo List",
   "short_name": "Todo List",
-  "description": "Todo list for reminding your tasks",
+  "description": "Todo list app for reminding your tasks",
   "start_url": ".",
   "orientation": "portrait",
   "display": "standalone",
